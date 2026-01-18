@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: Building full-stack backend projects using PHP (Laravel), Python (FastAPI), and cloud-deployed microservices.<br>👯 I’m looking to collaborate on: Open-source backend tools, APIs, and automation scripts.<br>🌱 I’m currently learning: Docker, AWS cloud deployments, and security hardening.<br>🤝 I’m looking for help with: Advanced DevOps practices, Kubernetes, and scalable architecture design.<br>
+🔭 I’m currently working on: Building full-stack backend projects using PHP (Laravel), Python (FastAPI), and cloud-deployed microservices.<br>👯 I’m looking to collaborate on: Open-source backend tools, APIs, and automation scripts.<br>🌱 I’m currently learning: AWS cloud deployments, and security hardening.<br>🤝 I’m looking for help with: Advanced DevOps practices.<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/@matt_hickling)
